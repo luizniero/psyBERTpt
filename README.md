@@ -1,10 +1,10 @@
 # psyBERTpt
-psyBERTpt is a Clinical NER model specialized in psychiatric health notes. It is one of the few language models for clinical NER available in Portuguese, such as BioBERTpt PUC models.
+psyBERTpt is a **Clinical NER model** specialized in psychiatric health notes. It is one of the few language models for clinical NER available in Portuguese, such as BioBERTpt PUC models.
 
 HuggingFaceAPI: https://huggingface.co/psybertpt/psyBERTpt/
 
 psyBERTpt is trained over the fine tuning of BERT-portuguese-large-cased with a specialized annotated psychiatric notes corpus.
-We used, in the fine tuning stage of psyBERTpt, a corpus composed of 300 medical records of admission to a specialized psychiatric hospital, which was annotated by 5 doctors and nurses specialized in psychiatry in the following NER categories:
+We used, in the fine tuning stage of psyBERTpt, a corpus composed of 300 medical records of admission to a specialized psychiatric hospital, which was annotated by 5 doctors and nurses specialized in psychiatry in the following **NER categories:
 
 - Self-Destructive Behavior
 - Diagnosis
@@ -16,9 +16,12 @@ We used, in the fine tuning stage of psyBERTpt, a corpus composed of 300 medical
 - Observation
 - Symptom and Psychological Complaint
 
-psyBERTpt achieved a precision of 0.65, recall of 0.69 and f1-score of 0.67.
+
+psyBERTpt achieved a **precision of 0.65, recall of 0.69 and f1-score of 0.67.**
+
 
 The scientific article that presents the psyBERTpt is waiting to be published =)
+
 
 My thanks to everyone who was part of this project:
 
