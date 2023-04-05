@@ -29,6 +29,7 @@ My thanks to everyone who was part of this project:
 - Prof. Dr. Ivan Rizzo Guilherme (ivan.guilherme@unesp.br)
 - Prof. Dr. Lucas Emanuel Silva e Oliveira (kunkaweb@gmail.com)
 - Prof. Dr. Gerardo Maria de Araújo Filho (gerardo.filho@famerp.br)
+- Dra. Bianca
 - Dr. Gabriel
 - Enf. Giovanna Favareto
 - Dra. Leisa
